@@ -1,5 +1,5 @@
-# TP_RNA_POSTIC_LABESSE" 
-## LABESSE Alexandre
+# TP_RNA_POSTIC_LABESSE
+## LABESSE Alexandre - 20190071
 
 The "training.py" script create scores files from pdb files for each pairs in the directory "DATA".
 
